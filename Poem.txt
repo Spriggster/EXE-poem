@@ -12,3 +12,5 @@ All data collected
 Fire wall rebooted
 Cpu cooling unblocked
 Saved
+Good job!
+You win!
