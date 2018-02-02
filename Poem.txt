@@ -7,8 +7,3 @@ Contents deleted
 CPU overheat
 Blocking coolent gel
 Then End
-Rebooting False
-All data collected false 
-Fire wall rebooted false
-Cpu cooling unblocked false
-Saved false
