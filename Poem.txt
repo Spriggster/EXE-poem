@@ -7,10 +7,3 @@ Contents deleted
 CPU overheat
 Blocking coolent gel
 Then End
-Rebooting
-All data collected
-Fire wall rebooted
-Cpu cooling unblocked
-Saved
-Good job!
-You win!
