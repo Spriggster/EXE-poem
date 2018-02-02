@@ -1,4 +1,4 @@
-Error.txt
+Error.txt/False
 Fixing Dfile
 Breaking master fire wall
 Broken wall
@@ -7,3 +7,8 @@ Contents deleted
 CPU overheat
 Blocking coolent gel
 Then End
+Rebooting
+All data collected
+Fire wall rebooted
+Cpu cooling unblocked
+Saved
